@@ -1,5 +1,6 @@
 # Pranav K P
 📧 Email: pranavkp170@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/pranav-k-p-0048ba278/  
+Reddit : https://www.reddit.com/user/MainWild1290/
 
 Backend developer specializing in Python, Django, FastAPI, and database-driven applications. Focused on building scalable APIs, developer tools, and automation solutions with clean architecture and open-source collaboration.
 
