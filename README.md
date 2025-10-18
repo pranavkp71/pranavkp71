@@ -1,4 +1,5 @@
 # Pranav K P
+📧 Email: pranavkp170@gmail.com  🔗 LinkedIn: https://www.linkedin.com/in/pranav-k-p-0048ba278/  
 
 Backend developer specializing in Python, Django, FastAPI, and database-driven applications. Focused on building scalable APIs, developer tools, and automation solutions with clean architecture and open-source collaboration.
 
@@ -19,10 +20,6 @@ Lightweight utility to generate SQL `CREATE TABLE` statements directly from Pyda
 FastAPI + PostgreSQL + pgvector-based system that enables semantic SQL querying, index recommendations, and CLI support.  
 🔗 https://github.com/pranavkp71/IQuerio
 
-### ✅ AutoAccount — Personal Accounting SaaS  
-Django-based platform that parses and categorizes bank statements with JWT authentication and CSV import automation.  
-🔗 https://github.com/pranavkp71/AutoAccount
-
 ### ✅ dbx — Lightweight Database Toolkit  
 Utility-focused repo aimed at simplifying common database operations for Python developers.  
 🔗 https://github.com/pranavkp71/dbx
@@ -37,6 +34,3 @@ These contributions reflect experience in large-scale repositories and collabora
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkp71&layout=compact)
 
-## 🔹 Connect With Me
-📧 Email: pranavkp170@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/pranav-k-p-0048ba278/  
