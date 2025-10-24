@@ -2,7 +2,7 @@
 
 **Backend Developer building AI-powered developer tools**
 
-Creator of [PydSQL](https://pypi.org/project/pydsql/) 
+Creator of [PydSQL](https://pypi.org/project/pydsql/)
 Currently building [IQuerio](https://github.com/pranavkp71/IQuerio) — AI SQL Assistant  
 Learning: System Design, AWS, Vector Databases  
 Ask me about: Python, FastAPI, RAG Systems  
