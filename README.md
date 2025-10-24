@@ -1,19 +1,21 @@
 # Hey, I'm Pranav 👋
 
-**Backend Developer building AI-powered developer tools**
+**Backend Developer** building AI-powered tools and developer utilities
 
-Creator of [PydSQL](https://pypi.org/project/pydsql/)
-Currently building [IQuerio](https://github.com/pranavkp71/IQuerio) — AI SQL Assistant  
-Learning: System Design, AWS, Vector Databases  
-Ask me about: Python, FastAPI, RAG Systems  
-Reach me: **pranavkp170@gmail.com**
+**Currently:** Developing IQuerio - AI SQL Assistant with RAG  
+**Created:** [PydSQL](https://github.com/pranavkp71/pydsql)
+**Learning:** System Design, Vector Databases, AWS  
+**Ask me about:** Python, FastAPI, RAG systems, Database optimization  
+**Reach me:** pranavkp170@gmail.com  
 
 ---
 
-## GitHub Stats
+## Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavkp71&show_icons=true&hide_title=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkp71&layout=compact&theme=radical)
+- Published a library on PyPI (PydSQL)
+- Contributing to **Pandas** & **ArviZ**
+- Building AI-powered database tools
+- Active in open-source community
 
 ---
 
@@ -32,21 +34,44 @@ Reach me: **pranavkp170@gmail.com**
 
 ---
 
-## Pinned Projects
 
-[![PydSQL](https://github-readme-stats.vercel.app/api/pin/?username=pranavkp71&repo=PydSQL&theme=radical)](https://github.com/pranavkp71/PydSQL)
-[![IQuerio](https://github-readme-stats.vercel.app/api/pin/?username=pranavkp71&repo=IQuerio&theme=radical)](https://github.com/pranavkp71/IQuerio)
-[![AutoAccount](https://github-readme-stats.vercel.app/api/pin/?username=pranavkp71&repo=AutoAccount&theme=radical)](https://github.com/pranavkp71/AutoAccount)
+## Featured Projects
+
+### [PydSQL](https://github.com/pranavkp71/pydsql) 
+Generate SQL CREATE TABLE statements from Pydantic models  
+`Python` `Pydantic` `SQL` `PyPI`
+
+### [IQuerio](https://github.com/pranavkp71/iquerio)
+AI-powered SQL assistant with natural language search  
+`FastAPI` `PostgreSQL` `pgvector` `RAG`
+
+### [AutoAccount](https://github.com/pranavkp71/autoaccount)
+SaaS accounting system with automated transaction parsing  
+`Django` `DRF` `JWT` `FinTech`
 
 ---
 
-## Quick Facts
+## GitHub Stats
 
-- Passionate about building tools that simplify developers’ work  
-- Focused on backend systems, AI integrations, and RAG pipelines  
-- Contributor to open-source projects like **Pandas** and **ArviZ**  
-- Committing code daily to stay consistent and sharp  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavkp71&show_icons=true&hide_title=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkp71&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavkp71&theme=radical)
+
 
 ---
 
-### ⭐ *If you like my projects, consider giving them a star! It really motivates me to build more.*  
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-p-0048ba278)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com)
+
+---
+
+💡 **Open to opportunities** in Backend Development | AI/ML Engineering | Developer Tools
+
+⭐ **Star my repos** if you find them useful
+
+
+---
+
