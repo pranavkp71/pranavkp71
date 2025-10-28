@@ -55,7 +55,6 @@ SaaS accounting system with automated transaction parsing
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavkp71&show_icons=true&hide_title=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavkp71&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavkp71&theme=radical)
 
 
 ---
