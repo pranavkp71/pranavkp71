@@ -3,7 +3,6 @@
 **Backend Developer** building AI-powered tools and developer utilities
 
 **Currently:** Developing IQuerio - AI SQL Assistant with RAG  
-**Created:** [PydSQL](https://github.com/pranavkp71/pydsql)
 **Learning:** System Design, Vector Databases, AWS  
 **Ask me about:** Python, FastAPI, RAG systems, Database optimization  
 **Reach me:** pranavkp170@gmail.com  
