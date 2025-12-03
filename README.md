@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;Backend+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Tools+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;Backend+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Tools;Open+Source+Contributor" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -127,7 +127,5 @@ Check out my repositories for more exciting projects!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavkp71)
 
 ⭐ **Star my repos if you find them useful!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranavkp71&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
