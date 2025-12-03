@@ -117,6 +117,4 @@ Check out my repositories for more exciting projects!
 
 ⭐ **Star my repos if you find them useful!**
 
-<img src="https://komarev.com/ghpvc/?username=pranavkp71&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
