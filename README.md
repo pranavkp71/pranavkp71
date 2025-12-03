@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;Backend+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Tools;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Pranav+%F0%9F%91%8B;Backend+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Tools;Open+Source+Contributor;Exploring+Real-Time+Systems" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -23,23 +23,17 @@ I'm a **Backend Developer** passionate about building AI-powered tools and devel
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & Caching**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -95,15 +89,10 @@ Check out my repositories for more exciting projects!
 ---
 
 ##  Contribution Stats
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavkp71&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavkp71&theme=tokyonight" width="49%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavkp71&theme=tokyonight" width="49%"/>
 </div>
-
 ---
 
 ##  GitHub Trophies
@@ -127,5 +116,7 @@ Check out my repositories for more exciting projects!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavkp71)
 
 ⭐ **Star my repos if you find them useful!**
+
+<img src="https://komarev.com/ghpvc/?username=pranavkp71&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
