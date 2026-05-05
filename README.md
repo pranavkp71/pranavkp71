@@ -10,9 +10,13 @@ Published on PyPI. Open source contributor. Currently deep in event-driven archi
 ## Active Projects
  
 &nbsp;**[Heron](https://github.com/pranavkp71/Heron)** — Business event monitoring system. Detects silent failures in payments, signups, and workflows using pattern-based anomaly detection. Python SDK on PyPI + real-time dashboard + Slack alerts.
+
 &nbsp;**[Synqit](https://github.com/pranavkp71/synqit)** — AI-powered Git assistant in your terminal. Instant commit messages. Smart PR descriptions.
+
 &nbsp;**[SafeStream](https://github.com/pranavkp71/SafeStream)** — Real-time transaction fraud detection. Kafka pipelines, optimized PostgreSQL schema, WebSocket updates, CI/CD. Built with TDD from day one.
+
 &nbsp;**[IQuerio](https://github.com/pranavkp71/IQuerio)** — AI-powered SQL assistant. Ask in plain English, get optimized SQL. 40% query performance improvement through execution plan tuning. pgvector + RAG + Hugging Face.
+
 &nbsp;**[DepWatch](https://github.com/pranavkp71/DepWatch)** — DepWatch scans a GitHub repository, extracts its dependencies, and gives each one a simple health rating.
 
 
