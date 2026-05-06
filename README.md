@@ -50,6 +50,7 @@ Backend Engineering · AI/ML Systems · Developer Tools
  
 [![Email](https://img.shields.io/badge/Email-pranavkp170%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--k--p-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-p-0048ba278)
+[![Blog](https://img.shields.io/badge/Blog-pranavos.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://pranavos.com/)
  
 ---
  
