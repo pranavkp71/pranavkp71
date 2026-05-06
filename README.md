@@ -43,15 +43,22 @@ Engineering        TDD · 80%+ Test Coverage · System Design · Production Debu
 - Learning system design, vector databases, and AWS deeply
 - Building developer tools that solve my own problems first
 ---
- 
+
+## Notes from the Stack
+
+Exploring technology in all directions, and writing it all down.
+
+[![Blog](https://img.shields.io/badge/Blog-pranavos.com-7C3AED?style=flat-square&logo=rss&logoColor=white)](https://pranavos.com/)
+[![Medium](https://img.shields.io/badge/Medium-@pranavkp170-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pranavkp170)
+
+---
 ## Open to opportunities
  
 Backend Engineering · AI/ML Systems · Developer Tools
  
 [![Email](https://img.shields.io/badge/Email-pranavkp170%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--k--p-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-p-0048ba278)
-[![Blog](https://img.shields.io/badge/Blog-pranavos.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://pranavos.com/)
- 
+
 ---
  
 > *"Make it work, make it fast, make it debuggable."*
