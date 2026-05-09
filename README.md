@@ -1,64 +1,64 @@
-Kerala, India | Backend Engineer | PostgreSQL Obsessive | AI Tool Builder
- 
-`Python` `FastAPI` `PostgreSQL` `Kafka` `Docker` `Redis` `AWS` `WebSockets`
- 
-Building reliable backend systems and AI-powered developer tools. Obsessed with query performance, clean APIs, and systems that don't break at 2am.
-Published on PyPI. Open source contributor. Currently deep in event-driven architecture.
- 
+# Pranav K P
+
+📍 Kerala, India &nbsp;|&nbsp; 🛠️ Self-taught backend developer &nbsp;|&nbsp; 🐘 PostgreSQL obsessive
+
+`Python` `FastAPI` `PostgreSQL` `Kafka` `Redis` `Docker` `AWS` `pgvector`
+
+> Building backend systems and developer tools. I spend most of my time on databases, event pipelines, and observability, the parts that keep systems honest under load. I build tools to solve my own problems first, then clean them up and ship them.
+
+> Published on PyPI. Contributing to open source. Currently deep in event-driven architecture and AI-assisted developer tooling.
+
 ---
- 
-## Active Projects
- 
-&nbsp;**[Heron](https://github.com/pranavkp71/Heron)** — Business event monitoring system. Detects silent failures in payments, signups, and workflows using pattern-based anomaly detection. Python SDK on PyPI + real-time dashboard + Slack alerts.
 
-&nbsp;**[Synqit](https://github.com/pranavkp71/synqit)** — AI-powered Git assistant in your terminal. Instant commit messages. Smart PR descriptions.
+## Projects
 
-&nbsp;**[SafeStream](https://github.com/pranavkp71/SafeStream)** — Real-time transaction fraud detection. Kafka pipelines, optimized PostgreSQL schema, WebSocket updates, CI/CD. Built with TDD from day one.
+- **[Heron](https://github.com/pranavkp71/Heron)** — Business event monitoring. Detects silent failures in payments, signups, and workflows. Pattern-based anomaly detection + real-time dashboard + Slack alerts. Python SDK on PyPI.
 
-&nbsp;**[IQuerio](https://github.com/pranavkp71/IQuerio)** — AI-powered SQL assistant. Ask in plain English, get optimized SQL. 40% query performance improvement through execution plan tuning. pgvector + RAG + Hugging Face.
+- **[SafeStream](https://github.com/pranavkp71/SafeStream)** — Real-time fraud detection. Kafka ingestion, optimized PostgreSQL schema, WebSocket updates, full CI/CD. TDD from day one.
 
-&nbsp;**[DepWatch](https://github.com/pranavkp71/DepWatch)** — DepWatch scans a GitHub repository, extracts its dependencies, and gives each one a simple health rating.
+- **[Synqit](https://github.com/pranavkp71/Synqit)** — Git assistant in your terminal. Writes commit messages and PR descriptions. Built because writing them manually after every change gets old fast.
 
+- **[DepWatch](https://github.com/pranavkp71/DepWatch)** — Scans a GitHub repo, extracts the dependency tree, and health-scores each package. Useful when auditing repos you've inherited or haven't touched in a while.
 
- 
- 
 ---
- 
-## What I'm Good At
- 
+
+## Stack
+
 ```
-Backend Systems    FastAPI · Flask · Django · REST APIs · WebSockets · Microservices
-Databases          PostgreSQL · Redis · MongoDB · Query Optimization · Indexing · JSONB
-Infrastructure     Docker · AWS · Kafka · Celery · GitHub Actions · CI/CD
-AI & Search        RAG · pgvector · Hugging Face · NLP · Vector Databases
-Engineering        TDD · 80%+ Test Coverage · System Design · Production Debugging
+Databases          PostgreSQL · Redis · MongoDB · pgvector
+Backend            Python · FastAPI · Flask · Django · REST · WebSockets
+Event systems      Kafka · Celery · async pipelines
+AI / Search        RAG · Hugging Face · vector databases · NLP
+Infrastructure     Docker · AWS · GitHub Actions · CI/CD
 ```
- 
----
- 
-## What I'm Doing
- 
-- Writing backend systems that handle real production load
-- Contributing to **Pandas** and **ArviZ** open source
-- Learning system design, vector databases, and AWS deeply
-- Building developer tools that solve my own problems first
+
 ---
 
-## Notes from the Stack
+## What I'm doing
 
-Exploring technology in all directions, and writing it all down.
+- Going deep on distributed systems and event-driven architecture
+- Contributing to **[Pandas](https://github.com/pandas-dev/pandas)** and **[ArviZ](https://github.com/arviz-devs/arviz)**
+- Writing about PostgreSQL, backend systems, and developer tooling
+- Building in public — more tools in progress
 
-[![Blog](https://img.shields.io/badge/Blog-pranavos.com-7C3AED?style=flat-square&logo=rss&logoColor=white)](https://pranavos.com/)
+---
+
+## Writing
+
+I write about what I'm building and learning — database internals, observability, AI tooling, system design.
+
+[![Blog](https://img.shields.io/badge/pranavos.com-7C3AED?style=flat-square&logo=rss&logoColor=white)](https://pranavos.com/) &nbsp;
 [![Medium](https://img.shields.io/badge/Medium-@pranavkp170-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pranavkp170)
 
 ---
-## Open to opportunities
- 
-Backend Engineering · AI/ML Systems · Developer Tools
- 
-[![Email](https://img.shields.io/badge/Email-pranavkp170%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com)
+
+## Connect
+
+Open to backend engineering, AI infrastructure, and developer tooling roles — especially on teams that care about reliability and debuggability.
+
+[![Email](https://img.shields.io/badge/pranavkp170@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--k--p-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-p-0048ba278)
 
 ---
- 
-> *"Make it work, make it fast, make it debuggable."*
+
+> *Make it work, make it fast, make it debuggable.*
