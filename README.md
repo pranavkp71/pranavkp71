@@ -58,6 +58,7 @@ Open to backend engineering, AI infrastructure, and developer tooling roles — 
 
 [![Email](https://img.shields.io/badge/pranavkp170@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavkp170@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pranav--k--p-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-k-p-0048ba278)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itspranav.me-111111?style=flat-square&logo=vercel&logoColor=white)](https://itspranav.me)
 
 ---
 
